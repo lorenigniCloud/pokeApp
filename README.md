@@ -1,1 +1,2 @@
-Quickstart: Expo Router, API Calls & Animations
+# Free AI at api.airforce
+https://discord.gg/AJDsM7jtbq
